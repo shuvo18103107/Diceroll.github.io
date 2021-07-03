@@ -1,4 +1,4 @@
-# Diceroll Game 
+# 🎲 Diceroll Game 🎲
 
 GAME RULES:
 
